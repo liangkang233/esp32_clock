@@ -1,0 +1,390 @@
+Error:2022/08/17 12:35:24 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:35:24 12.go:82: send cpu load failed
+Error:2022/08/17 12:35:46 12.go:82: send cpu load failed
+Error:2022/08/17 12:35:46 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:36:08 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:36:08 12.go:82: send cpu load failed
+Error:2022/08/17 12:36:30 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:36:30 12.go:82: send cpu load failed
+Error:2022/08/17 12:36:52 12.go:82: send cpu load failed
+Error:2022/08/17 12:36:52 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:37:15 12.go:82: send cpu load failed
+Error:2022/08/17 12:37:15 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:37:37 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:37:37 12.go:82: send cpu load failed
+Error:2022/08/17 12:37:59 12.go:82: send cpu load failed
+Error:2022/08/17 12:37:59 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:38:21 12.go:82: send cpu load failed
+Error:2022/08/17 12:38:21 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:38:43 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:38:43 12.go:82: send cpu load failed
+Error:2022/08/17 12:39:05 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:39:05 12.go:82: send cpu load failed
+Error:2022/08/17 12:39:27 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:39:27 12.go:82: send cpu load failed
+Error:2022/08/17 12:39:49 12.go:82: send cpu load failed
+Error:2022/08/17 12:39:49 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:40:11 12.go:82: send cpu load failed
+Error:2022/08/17 12:40:11 12.go:103: [error] send mem load failed
+Error:2022/08/17 12:43:55 12.go:103: send mem load failed
+Error:2022/08/17 12:43:55 12.go:82: send cpu load failed
+Error:2022/08/17 15:58:22 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:26 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:29 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:33 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:37 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:41 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 15:58:48 12.go:87: Get "http://192.168.253.7/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:01:06 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:01:10 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:01:21 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:01:24 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:02:53 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:02:57 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:01 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:04 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:08 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:11 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:15 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:03:19 12.go:87: Get "http://192.168.253.7:80/update": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:07:56 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:07:59 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:02 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:05 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:08 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:11 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:14 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:17 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:20 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:23 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:26 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:29 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:32 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:35 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:38 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:41 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:44 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:47 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:51 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:54 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:08:57 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:00 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:03 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:06 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:09 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:12 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:15 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:18 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:21 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:24 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:27 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:30 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:33 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:36 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:39 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:42 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:45 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:48 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:51 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:54 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:09:57 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:00 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:03 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:07 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:10 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:13 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:16 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:19 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:22 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:25 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:28 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:31 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:34 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:37 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:40 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:43 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:46 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:49 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:52 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:55 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:10:58 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:01 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:04 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:07 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:10 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:13 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:16 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:19 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:22 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:26 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:29 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:32 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:35 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:38 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:41 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:44 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:47 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:50 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:53 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:56 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:11:59 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:02 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:05 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:08 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:11 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:14 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:17 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:20 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:23 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:27 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:30 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:33 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:36 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:39 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:42 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:45 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:48 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:51 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:54 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:12:57 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:00 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:03 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:06 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:09 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:12 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:15 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:18 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:21 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:24 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:27 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:31 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:34 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:37 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:40 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:43 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:46 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:49 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:52 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:55 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:13:58 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:01 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:04 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:07 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:10 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:13 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:16 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:19 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:22 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:25 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:28 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:31 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:34 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:37 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:40 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:43 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:46 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:49 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:52 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:55 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:14:59 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:02 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:05 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:08 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:11 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:14 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:17 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:20 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:23 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:26 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:29 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:32 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:35 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:38 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:41 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:44 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:47 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:51 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:54 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:15:57 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:00 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:03 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:06 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:09 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:12 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:15 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:18 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:21 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:24 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:27 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:30 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:33 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:36 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:39 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:42 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:45 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:48 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:52 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:55 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:16:58 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:01 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:04 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:07 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:10 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:13 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:16 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:19 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:22 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:25 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:28 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:31 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:34 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:37 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:40 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:43 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:46 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:49 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:52 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:56 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:17:59 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:18:02 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:18:05 12.go:88: Get "http://10.16.100.26/update": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:18:50 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.282051&cpuinfo=1.282051&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:18:54 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.051282&cpuinfo=2.051282&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:18:59 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.692708&cpuinfo=1.692708&memInfo=72.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:03 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=6.119792&cpuinfo=6.119792&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:07 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=0.651042&cpuinfo=0.651042&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:11 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.734375&cpuinfo=2.734375&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:15 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.864583&cpuinfo=2.864583&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:19 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=3.333333&cpuinfo=3.333333&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:23 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=6.410256&cpuinfo=6.410256&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:27 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=14.615385&cpuinfo=14.615385&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:31 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=8.461538&cpuinfo=8.461538&memInfo=74.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:35 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.953125&cpuinfo=1.953125&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:39 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.307692&cpuinfo=2.307692&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:43 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.953125&cpuinfo=1.953125&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:47 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=3.255208&cpuinfo=3.255208&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:51 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.666667&cpuinfo=1.666667&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:55 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.923077&cpuinfo=1.923077&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:19:59 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.564103&cpuinfo=2.564103&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:20:03 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.538462&cpuinfo=1.538462&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:20:07 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=5.468750&cpuinfo=5.468750&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:20:11 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=1.666667&cpuinfo=1.666667&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:20:16 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=2.051282&cpuinfo=2.051282&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:20:20 12.go:88: Get "http://10.16.100.26/update/?cpuinfo=0.769231&cpuinfo=0.769231&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:22:16 12.go:89: Get "http://10.16.100.26/update/?cpuinfo=2.343750&cpuinfo=2.343750&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:22:20 12.go:89: Get "http://10.16.100.26/update/?cpuinfo=1.025641&cpuinfo=1.025641&memInfo=73.000000&": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:44:21 12.go:93: Get "http://10.16.100.26/update/?cpuinfo=4.427083&System_process=317&memInfo=75.000000&freemem=16207&SSDInfo=73.728949": dial tcp 10.16.100.26:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:46:40 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.179487&System_process=324&memInfo=76.000000&freemem=16207&SSDInfo=73.731846": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/17 16:46:44 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.974359&System_process=324&memInfo=76.000000&freemem=16207&SSDInfo=73.731847": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/18 16:58:29 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=20.963542&System_process=300&memInfo=74.000000&freemem=16207&SSDInfo=72.713245": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/18 16:58:34 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.562500&System_process=300&memInfo=74.000000&freemem=16207&SSDInfo=72.713246": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/18 17:04:17 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.282051&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751875": EOF
+Error:2022/08/18 17:04:19 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=0.781250&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751875": EOF
+Error:2022/08/18 17:04:22 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.820513&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751875": EOF
+Error:2022/08/18 17:04:24 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.538462&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751875": EOF
+Error:2022/08/18 17:04:26 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.435897&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751876": EOF
+Error:2022/08/18 17:04:28 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.473958&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751876": EOF
+Error:2022/08/18 17:04:31 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.473958&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751878": EOF
+Error:2022/08/18 17:04:33 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.435897&System_process=304&memInfo=74.000000&freemem=64&SSDInfo=72.751873": EOF
+Error:2022/08/18 17:04:35 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=22.692308&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.752105": EOF
+Error:2022/08/18 17:04:41 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.776042&System_process=308&memInfo=75.000000&freemem=64&SSDInfo=72.752105": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/18 17:04:46 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.473958&System_process=308&memInfo=75.000000&freemem=64&SSDInfo=72.752106": dial tcp 192.168.253.7:80: connectex: No connection could be made because the target machine actively refused it.
+Error:2022/08/18 17:04:51 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.076923&System_process=308&memInfo=75.000000&freemem=64&SSDInfo=72.752204": EOF
+Error:2022/08/18 17:04:53 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.846154&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.752069": EOF
+Error:2022/08/18 17:04:55 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.256410&System_process=310&memInfo=74.000000&freemem=64&SSDInfo=72.752068": EOF
+Error:2022/08/18 17:04:57 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.817708&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.752069": EOF
+Error:2022/08/18 17:04:59 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.897436&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.752069": EOF
+Error:2022/08/18 17:05:02 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.589744&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.753252": EOF
+Error:2022/08/18 17:05:04 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.385417&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.753252": EOF
+Error:2022/08/18 17:05:06 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.817708&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.753285": EOF
+Error:2022/08/18 17:05:08 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.692308&System_process=310&memInfo=76.000000&freemem=64&SSDInfo=72.753286": EOF
+Error:2022/08/18 17:05:10 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.859375&System_process=310&memInfo=76.000000&freemem=64&SSDInfo=72.755447": EOF
+Error:2022/08/18 17:05:12 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.461538&System_process=310&memInfo=76.000000&freemem=64&SSDInfo=72.755452": EOF
+Error:2022/08/18 17:05:15 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.947917&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.755447": EOF
+Error:2022/08/18 17:05:17 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.729167&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.755937": EOF
+Error:2022/08/18 17:05:19 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.794872&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.757763": EOF
+Error:2022/08/18 17:05:21 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.598958&System_process=310&memInfo=75.000000&freemem=64&SSDInfo=72.757763": EOF
+Error:2022/08/18 17:05:23 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=12.179487&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.757763": EOF
+Error:2022/08/18 17:05:25 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=9.102564&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.757763": EOF
+Error:2022/08/18 17:05:28 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.692708&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.757763": EOF
+Error:2022/08/18 17:05:30 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.589744&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.758138": EOF
+Error:2022/08/18 17:05:32 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.645833&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.759080": EOF
+Error:2022/08/18 17:05:34 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.078125&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.759517": EOF
+Error:2022/08/18 17:05:36 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.410256&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.761239": EOF
+Error:2022/08/18 17:05:38 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.515625&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.761239": EOF
+Error:2022/08/18 17:05:40 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=12.435897&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.761239": EOF
+Error:2022/08/18 17:05:43 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=16.927083&System_process=311&memInfo=75.000000&freemem=64&SSDInfo=72.761239": EOF
+Error:2022/08/18 17:05:45 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=9.114583&System_process=312&memInfo=75.000000&freemem=64&SSDInfo=72.761242": EOF
+Error:2022/08/18 17:05:47 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=19.140625&System_process=315&memInfo=76.000000&freemem=64&SSDInfo=72.760657": EOF
+Error:2022/08/18 17:05:49 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=21.153846&System_process=316&memInfo=76.000000&freemem=64&SSDInfo=72.754768": EOF
+Error:2022/08/18 17:05:51 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=10.641026&System_process=316&memInfo=76.000000&freemem=64&SSDInfo=72.754762": EOF
+Error:2022/08/18 17:05:53 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=12.179487&System_process=316&memInfo=76.000000&freemem=64&SSDInfo=72.754762": EOF
+Error:2022/08/18 17:06:17 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=12.435897&System_process=314&memInfo=75.000000&freemem=64&SSDInfo=72.761394": dial tcp 192.168.253.7:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+Error:2022/08/18 17:06:40 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.435897&System_process=313&memInfo=76.000000&freemem=64&SSDInfo=72.761493": dial tcp 192.168.253.7:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+Error:2022/08/18 17:06:42 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.906250&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761566": EOF
+Error:2022/08/18 17:06:44 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.333333&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761566": EOF
+Error:2022/08/18 17:06:46 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.734375&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761566": EOF
+Error:2022/08/18 17:06:48 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.953125&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761570": EOF
+Error:2022/08/18 17:06:51 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.205128&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761570": EOF
+Error:2022/08/18 17:06:53 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.923077&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760510": EOF
+Error:2022/08/18 17:06:55 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.897436&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760510": EOF
+Error:2022/08/18 17:06:57 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.769231&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760510": EOF
+Error:2022/08/18 17:06:59 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.589744&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760506": EOF
+Error:2022/08/18 17:07:01 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.102564&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760880": EOF
+Error:2022/08/18 17:07:04 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.871795&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760880": EOF
+Error:2022/08/18 17:07:06 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.333333&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760882": EOF
+Error:2022/08/18 17:07:08 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.333333&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760883": EOF
+Error:2022/08/18 17:07:10 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.769231&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.760999": EOF
+Error:2022/08/18 17:07:12 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.179487&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.762669": EOF
+Error:2022/08/18 17:07:14 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=12.435897&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.762669": EOF
+Error:2022/08/18 17:07:17 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.166667&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.761076": EOF
+Error:2022/08/18 17:07:19 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.948718&System_process=307&memInfo=76.000000&freemem=64&SSDInfo=72.761076": EOF
+Error:2022/08/18 17:07:21 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.000000&System_process=307&memInfo=76.000000&freemem=64&SSDInfo=72.761076": EOF
+Error:2022/08/18 17:07:23 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.119792&System_process=307&memInfo=76.000000&freemem=64&SSDInfo=72.761076": EOF
+Error:2022/08/18 17:07:25 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.923077&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.763340": EOF
+Error:2022/08/18 17:07:27 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.564103&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.763340": EOF
+Error:2022/08/18 17:07:30 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.205128&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.763340": EOF
+Error:2022/08/18 17:07:32 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=8.463542&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.764934": EOF
+Error:2022/08/18 17:07:34 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.510417&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.766246": EOF
+Error:2022/08/18 17:07:36 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=13.932292&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.767154": EOF
+Error:2022/08/18 17:07:38 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=8.717949&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.767154": EOF
+Error:2022/08/18 17:07:40 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.208333&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.767154": EOF
+Error:2022/08/18 17:07:43 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.358974&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.767516": EOF
+Error:2022/08/18 17:07:45 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=20.000000&System_process=309&memInfo=75.000000&freemem=64&SSDInfo=72.768823": EOF
+Error:2022/08/18 17:07:47 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=13.195343&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768823": EOF
+Error:2022/08/18 17:07:49 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.076923&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768823": EOF
+Error:2022/08/18 17:07:51 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.589744&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768832": EOF
+Error:2022/08/18 17:07:53 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.515625&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768832": EOF
+Error:2022/08/18 17:07:56 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.461538&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768881": EOF
+Error:2022/08/18 17:07:58 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.557292&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768877": EOF
+Error:2022/08/18 17:08:00 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.427083&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768877": EOF
+Error:2022/08/18 17:08:02 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.333333&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768877": EOF
+Error:2022/08/18 17:08:04 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.385417&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.768877": EOF
+Error:2022/08/18 17:08:07 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.468750&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769728": EOF
+Error:2022/08/18 17:08:09 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.645833&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:11 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.282051&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:13 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.692308&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:15 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.953125&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:17 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=1.666667&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:20 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=9.615385&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:22 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.102564&System_process=307&memInfo=75.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:24 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.589744&System_process=307&memInfo=76.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:26 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.604167&System_process=307&memInfo=76.000000&freemem=64&SSDInfo=72.769832": EOF
+Error:2022/08/18 17:08:28 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.552083&System_process=306&memInfo=76.000000&freemem=64&SSDInfo=72.769961": EOF
+Error:2022/08/18 17:08:30 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.974359&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.770398": EOF
+Error:2022/08/18 17:08:33 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.717949&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771684": EOF
+Error:2022/08/18 17:08:35 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.205128&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771684": EOF
+Error:2022/08/18 17:08:37 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.435897&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771684": EOF
+Error:2022/08/18 17:08:39 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.717949&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771697": EOF
+Error:2022/08/18 17:08:41 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=8.717949&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771697": EOF
+Error:2022/08/18 17:08:43 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=2.567394&System_process=306&memInfo=75.000000&freemem=64&SSDInfo=72.771699": EOF
+Error:2022/08/18 17:08:46 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=14.487179&System_process=307&memInfo=73.000000&freemem=64&SSDInfo=72.724862": EOF
+Error:2022/08/18 17:08:48 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=5.989583&System_process=307&memInfo=74.000000&freemem=64&SSDInfo=72.724836": EOF
+Error:2022/08/18 17:08:50 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=6.538462&System_process=307&memInfo=74.000000&freemem=64&SSDInfo=72.724828": EOF
+Error:2022/08/18 17:08:52 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=4.615385&System_process=307&memInfo=74.000000&freemem=64&SSDInfo=72.724854": EOF
+Error:2022/08/18 17:08:54 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.564103&System_process=307&memInfo=74.000000&freemem=64&SSDInfo=72.724854": EOF
+Error:2022/08/18 17:08:57 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.179487&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.725087": EOF
+Error:2022/08/18 17:08:59 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.255208&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.725087": EOF
+Error:2022/08/18 17:09:01 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=7.682292&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.726757": EOF
+Error:2022/08/18 17:09:03 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=3.645833&System_process=308&memInfo=74.000000&freemem=64&SSDInfo=72.726785": EOF
+Error:2022/08/18 17:09:05 12.go:93: Get "http://192.168.253.7/update/?cpuinfo=13.281250&System_process=311&memInfo=74.000000&freemem=64&SSDInfo=72.726785": EOF

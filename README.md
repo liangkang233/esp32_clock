@@ -13,7 +13,7 @@
 - [显示pc主机性能占用](https://github.com/ShaderFallback/CpuRamGet)
 ![](./image/2.jpg)
 
-具体使用可以看看这篇[博客]()。
+具体使用可以看看这篇[博客](https://liangkang233.github.io/2022/08/桌面摆件/)。
 
 
 
